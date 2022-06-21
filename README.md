@@ -2,11 +2,11 @@
 
 ## Functions
 
-- [https://ricardomartins.cc/2015/10/12/practical_differences_between_rust_closures_and_functions](What is the difference between a function and a closure?)
+- [ ] [What is the difference between a function and a closure?](https://ricardomartins.cc/2015/10/12/practical_differences_between_rust_closures_and_functions)
 
 ## Bibliography
 
-- [https://manishearth.github.io/blog/categories/rust/](Manish Goregaokar's Blog)
+- [ ] [Manish Goregaokar's Blog](https://manishearth.github.io/blog/categories/rust/)
 
 ## Contributions
 
