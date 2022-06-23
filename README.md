@@ -39,12 +39,13 @@
 
 ## Philosophy
 
-- [ ] [Falling in love with Rust](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
+- [x] [Falling in love with Rust](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
 - [ ] [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
 
 ## std Traits
 
-- [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
+- [ ] [Common Rust Traits](https://stevedonovan.github.io/rustifications/2018/09/08/common-rust-traits.html)
+- [ ] - [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
 - [ ] [Send/Sync](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/)
 - [ ] [Borrow/AsRef](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/borrow-and-asref.html)
 
