@@ -2,17 +2,19 @@
 
 ## Overview / Books
 
-- [ ] [The Rust Programming Language Book - Rust Documentation](https://doc.rust-lang.org/stable/book/)
+- [x] [The Rust Programming Language Book - Rust Documentation](https://doc.rust-lang.org/stable/book/)
 
 
 ## Async
 
-- [ ] [What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/)
+- [x] [What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/)
+- [ ] [Reducing Tail Latencies with Cooperative Task Yielding](https://tokio.rs/blog/2020-04-preemption)
 
 ## Concurrency
 
 - [ ] [The Problem with Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
 - [ ] [Fearless Concurrency](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
+- [ ] [Rayon: Data Parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/)
 
 ## Enums
 
@@ -21,7 +23,7 @@
 
 ## Errors
 
-- [ ] [Deep Dive on Error Handling](https://blog.burntsushi.net/rust-error-handling/)
+- [x] [Deep Dive on Error Handling](https://blog.burntsushi.net/rust-error-handling/)
 
 ## Functions
 
@@ -39,10 +41,6 @@
 
 - [ ] [Falling in love with Rust](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
 - [ ] [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
-
-## Rayon (Data Parallelism)
-
-- [ ] [Rayon: Data Parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/)
 
 ## std Traits
 
