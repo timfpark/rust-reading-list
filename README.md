@@ -71,6 +71,12 @@
 - [ ] [Interior Mutability: Thread Safety](https://ricardomartins.cc/2016/06/25/interior-mutability-thread-safety)
 - [ ] [Interior Mutability: Internals](https://ricardomartins.cc/2016/07/11/interior-mutability-behind-the-curtain)
 
+## Ecosystem Essentials
+
+- [ ] [Diesel: Database / ORM](https://diesel.rs/)
+- [ ] [Serde: Serialization / Deserialization](https://serde.rs/)
+- [ ] [Tokio: Async Runtime](https://tokio.rs)
+
 ## Bibliography
 
 - [ ] [Andre "llogiq" Bogus' Blog](https://llogiq.github.io)
