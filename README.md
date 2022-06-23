@@ -4,6 +4,11 @@
 
 - [ ] [The Rust Programming Language Book - Rust Documentation](https://doc.rust-lang.org/stable/book/)
 
+
+## Async
+
+- [ ] [What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/)
+
 ## Concurrency
 
 - [ ] [The Problem with Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
@@ -75,6 +80,7 @@
 - [ ] [Niko Matsakis' Blog](http://smallcultfollowing.com/babysteps/)
 - [ ] [Ricardo Martins' Blog](https://ricardomartins.cc)
 - [ ] [Herman Radtke's Blog](https://hermanradtke.com/tags/rustlang/)
+- [ ] [Alice Ryhl](https://ryhl.io/blog/)
 
 ## Contributions
 
