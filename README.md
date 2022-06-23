@@ -1,4 +1,4 @@
-# Currated Rust Reading List
+# Rust Reading List
 
 ## Overview / Books
 
@@ -43,6 +43,7 @@
 
 - [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
 - [ ] [Send/Sync](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/)
+- [ ] [Borrow/AsRef](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/borrow-and-asref.html)
 
 ## Strings
 
