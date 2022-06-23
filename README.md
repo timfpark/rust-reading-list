@@ -53,6 +53,7 @@
 
 - [ ] [String vs. &str in Functions](https://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html/)
 - [ ] [Creating a Rust function that accepts String or &str](https://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html/)
+- [ ] [Box<str> vs. String](https://mahdi.blog/rust-box-str-vs-string/)
 
 ## Tooling
 
