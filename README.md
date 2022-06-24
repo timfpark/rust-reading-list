@@ -10,7 +10,7 @@
 - [x] [What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/)
 - [x] [Reducing Tail Latencies with Cooperative Task Yielding](https://tokio.rs/blog/2020-04-preemption)
 
-## Concurrency
+## Concurrency / Parallelism
 
 - [ ] [The Problem with Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
 - [ ] [Fearless Concurrency](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
