@@ -77,9 +77,15 @@
 
 ## Ecosystem Essentials
 
+- [ ] [Clap: Command Line Parsing]([https://github.com/brson/stdx](https://github.com/clap-rs/clap)
 - [ ] [Diesel: Database / ORM](https://diesel.rs/)
+- [ ] [lazy_static: Global Initialization](https://docs.rs/lazy_static/latest/lazy_static/)
+- [ ] [Rayon: Data Parallelism](https://github.com/rayon-rs/rayon)
 - [ ] [Serde: Serialization / Deserialization](https://serde.rs/)
 - [ ] [Tokio: Async Runtime](https://tokio.rs)
+  
+## The Future
+- [ ] [The Push for GATs](https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html)
 
 ## Bibliography
 
