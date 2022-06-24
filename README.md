@@ -77,7 +77,7 @@
 
 ## Ecosystem Essentials
 
-- [ ] [Clap: Command Line Parsing](https://github.com/brson/stdx](https://github.com/clap-rs/clap)
+- [ ] [Clap: Command Line Parsing](https://github.com/clap-rs/clap)
 - [ ] [Diesel: Database / ORM](https://diesel.rs/)
 - [ ] [lazy_static: Global Initialization](https://docs.rs/lazy_static/latest/lazy_static/)
 - [ ] [Rayon: Data Parallelism](https://github.com/rayon-rs/rayon)
