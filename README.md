@@ -8,7 +8,7 @@
 ## Async
 
 - [x] [What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/)
-- [ ] [Reducing Tail Latencies with Cooperative Task Yielding](https://tokio.rs/blog/2020-04-preemption)
+- [x] [Reducing Tail Latencies with Cooperative Task Yielding](https://tokio.rs/blog/2020-04-preemption)
 
 ## Concurrency
 
