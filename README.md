@@ -39,6 +39,7 @@
 
 ## Philosophy
 
+- [ ] [Rustacean Principles](https://rustacean-principles.netlify.app)
 - [x] [Falling in love with Rust](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
 - [ ] [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
 
