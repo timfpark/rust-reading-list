@@ -47,7 +47,7 @@
 ## std Traits
 
 - [ ] [Common Rust Traits](https://stevedonovan.github.io/rustifications/2018/09/08/common-rust-traits.html)
-- [ ] - [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
+- [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
 - [ ] [Send/Sync](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/)
 - [ ] [Borrow/AsRef](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/borrow-and-asref.html)
 
@@ -88,7 +88,7 @@
 - [ ] [Niko Matsakis' Blog](http://smallcultfollowing.com/babysteps/)
 - [ ] [Ricardo Martins' Blog](https://ricardomartins.cc)
 - [ ] [Herman Radtke's Blog](https://hermanradtke.com/tags/rustlang/)
-- [ ] [Alice Ryhl](https://ryhl.io/blog/)
+- [ ] [Alice Ryhl's Blog](https://ryhl.io/blog/)
 
 ## Contributions
 
