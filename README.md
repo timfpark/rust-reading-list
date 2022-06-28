@@ -37,7 +37,7 @@
 ## Performance
 
 - [ ] [Performance pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
-- [ ] [Criterion: Benchmarking](https://github.com/bheisler/criterion.rs)
+- [x] [Criterion: Benchmarking](https://github.com/bheisler/criterion.rs)
 
 ## Philosophy
 
