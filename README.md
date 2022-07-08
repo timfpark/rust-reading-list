@@ -4,7 +4,6 @@
 
 - [x] [The Rust Programming Language Book - Rust Documentation](https://doc.rust-lang.org/stable/book/)
 
-
 ## Async
 
 - [x] [What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/)
@@ -28,8 +27,10 @@
 ## Functions
 
 - [ ] [What is the difference between a function and a closure?](https://ricardomartins.cc/2015/10/12/practical_differences_between_rust_closures_and_functions)
+- [ ] [Understanding closures in Rust](https://medium.com/swlh/understanding-closures-in-rust-21f286ed1759)
 
 ## Generics
+
 - [ ] [const Generics](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
 
 ## Iterators
@@ -53,6 +54,9 @@
 
 - [ ] [Common Rust Traits](https://stevedonovan.github.io/rustifications/2018/09/08/common-rust-traits.html)
 - [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
+- [ ] [Tour of Rust Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
+- [ ] [Iterators in Rust](https://blog.thoughtram.io/iterators-in-rust/)
+- [ ] [Hand-Implementing PartialEq, Eq, Hash, PartialOrd, Ord in Rust](https://www.philipdaniels.com/blog/2019/rust-equality-and-ordering/)
 - [ ] [Send/Sync](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/)
 - [x] [Borrow/AsRef](https://doc.rust-lang.org/std/borrow/trait.Borrow.html)
 
@@ -61,6 +65,7 @@
 - [ ] [String vs. &str in Functions](https://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html/)
 - [ ] [Creating a Rust function that accepts String or &str](https://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html/)
 - [ ] [Box<str> vs. String](https://mahdi.blog/rust-box-str-vs-string/)
+- [ ] [The Secret Life of Cows](https://deterministic.space/secret-life-of-cows.html)
 
 ## Tooling
 
@@ -88,8 +93,9 @@
 - [ ] [Rayon: Data Parallelism](https://github.com/rayon-rs/rayon)
 - [ ] [Serde: Serialization / Deserialization](https://serde.rs/)
 - [ ] [Tokio: Async Runtime](https://tokio.rs)
-  
+
 ## The Future
+
 - [ ] [The Push for GATs](https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html)
 
 ## Bibliography
