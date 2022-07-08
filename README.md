@@ -29,6 +29,9 @@
 
 - [ ] [What is the difference between a function and a closure?](https://ricardomartins.cc/2015/10/12/practical_differences_between_rust_closures_and_functions)
 
+## Generics
+- [ ] [const Generics](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
+
 ## Iterators
 
 - [x] [Effectively using iterators](https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html/)
@@ -44,7 +47,7 @@
 - [ ] [Rustacean Principles](https://rustacean-principles.netlify.app)
 - [ ] [Rustacean Principles Continued](https://smallcultfollowing.com/babysteps/blog/2021/09/16/rustacean-principles-continued/)
 - [x] [Falling in love with Rust](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
-- [ ] [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
+- [x] [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
 
 ## std Traits
 
