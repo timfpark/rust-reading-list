@@ -106,6 +106,7 @@
 - [ ] [Ricardo Martins' Blog](https://ricardomartins.cc)
 - [ ] [Herman Radtke's Blog](https://hermanradtke.com/tags/rustlang/)
 - [ ] [Alice Ryhl's Blog](https://ryhl.io/blog/)
+- [ ] [Pascal's Scribbles](https://deterministic.space)
 
 ## Contributions
 
