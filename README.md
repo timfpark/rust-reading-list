@@ -38,6 +38,10 @@
 - [x] [Effectively using iterators](https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html/)
 - [ ] [Itertools](https://docs.rs/itertools/latest/itertools/)
 
+## Macros
+
+- [ ] [Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
+
 ## Performance
 
 - [ ] [Performance pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
@@ -50,9 +54,10 @@
 - [x] [Falling in love with Rust](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
 - [x] [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
 
-## std Traits
+## Traits
 
 - [ ] [Common Rust Traits](https://stevedonovan.github.io/rustifications/2018/09/08/common-rust-traits.html)
+- [ ] [Trait Driven Development](https://deterministic.space/trait-driven-development-in-rust.html)
 - [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
 - [ ] [Tour of Rust Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 - [ ] [Iterators in Rust](https://blog.thoughtram.io/iterators-in-rust/)
@@ -90,6 +95,7 @@
 - [ ] [Clap: Command Line Parsing](https://github.com/clap-rs/clap)
 - [ ] [Diesel: Database / ORM](https://diesel.rs/)
 - [ ] [lazy_static: Global Initialization](https://docs.rs/lazy_static/latest/lazy_static/)
+- [ ] [Quickcheck: Property based testing](https://github.com/BurntSushi/quickcheck)
 - [ ] [Rayon: Data Parallelism](https://github.com/rayon-rs/rayon)
 - [ ] [Serde: Serialization / Deserialization](https://serde.rs/)
 - [ ] [Tokio: Async Runtime](https://tokio.rs)
