@@ -26,8 +26,10 @@
 
 ## Functions
 
+- [ ] [Reading Function Signatures](https://hoverbear.org/blog/reading-rust-function-signatures/)
 - [ ] [What is the difference between a function and a closure?](https://ricardomartins.cc/2015/10/12/practical_differences_between_rust_closures_and_functions)
 - [ ] [Understanding closures in Rust](https://medium.com/swlh/understanding-closures-in-rust-21f286ed1759)
+- [ ] [Optional Arguments in Rust](https://hoverbear.org/blog/optional-arguments/)
 
 ## Generics
 
@@ -56,6 +58,7 @@
 
 ## Traits
 
+- [ ] [Abstraction without Overhead](https://blog.rust-lang.org/2015/05/11/traits.html)
 - [ ] [Common Rust Traits](https://stevedonovan.github.io/rustifications/2018/09/08/common-rust-traits.html)
 - [ ] [Trait Driven Development](https://deterministic.space/trait-driven-development-in-rust.html)
 - [ ] [From/Into: Idiomatic Conversions](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
@@ -76,6 +79,10 @@
 
 - [ ] [Supply chain safety](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/)
 
+## Testing
+
+- [ ] [Intro to Property Based Testing](https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/)
+
 ## Traits
 
 - [ ] [Built-in Traits: When, How, Why](https://llogiq.github.io/2015/07/30/traits.html)
@@ -92,7 +99,9 @@
 
 ## Ecosystem Essentials
 
+- [ ] [Axum: Web Application Framework](https://github.com/tokio-rs/axum)
 - [ ] [Clap: Command Line Parsing](https://github.com/clap-rs/clap)
+- [ ] [Crossbeam: Multithreaded Lock Free Data Structures](https://github.com/crossbeam-rs/crossbeam)
 - [ ] [Diesel: Database / ORM](https://diesel.rs/)
 - [ ] [lazy_static: Global Initialization](https://docs.rs/lazy_static/latest/lazy_static/)
 - [ ] [Quickcheck: Property based testing](https://github.com/BurntSushi/quickcheck)
@@ -112,7 +121,9 @@
 - [ ] [Ricardo Martins' Blog](https://ricardomartins.cc)
 - [ ] [Herman Radtke's Blog](https://hermanradtke.com/tags/rustlang/)
 - [ ] [Alice Ryhl's Blog](https://ryhl.io/blog/)
-- [ ] [Pascal's Scribbles](https://deterministic.space)
+- [ ] [Pascal Hertleif's Blog](https://deterministic.space)
+- [ ] [Ana Hoverbear's Blog](https://hoverbear.org/blog/)
+- [ ] [Andrew Gallant's Blog](https://blog.burntsushi.net)
 
 ## Contributions
 
